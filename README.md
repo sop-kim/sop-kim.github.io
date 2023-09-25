@@ -1,1 +1,2 @@
-# sop-kim.github.io
+# Saemin (Sophie) Kim
+This repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.io.
