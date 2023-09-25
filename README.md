@@ -7,3 +7,10 @@ This repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.
 ## Activity 2
 ![image](https://github.com/sop-kim/sop-kim.github.io/assets/77212828/cc7d2092-537a-4052-9e13-734dba3f1f94)
 ![image](https://github.com/sop-kim/sop-kim.github.io/assets/77212828/145ca932-514a-4147-a352-fdc0fdca078e)
+
+## Activity 3
+![image](https://github.com/sop-kim/sop-kim.github.io/assets/77212828/bbbb9714-5ada-4339-a891-34c6feaead88)
+![image](https://github.com/sop-kim/sop-kim.github.io/assets/77212828/10cea0b9-804f-4ff7-bd3f-29d5c148ec3a)
+![Uploading image.png…]()
+
+
